@@ -1,4 +1,4 @@
-##Mastering React
+Mastering React
 
 Here I am following the React course: https://www.youtube.com/watch?v=Bvwq_S0n2pk&t=18336s&ab_channel=freeCodeCamp.org
 
